@@ -49,5 +49,8 @@
 ```bash
 git clone https://github.com/richiethgoat/akane-md
 cd akane-md
+npm install git clone https://github.com/richiethgoat/akane-md
+cd akane-md
 npm install
+node .
 node .
